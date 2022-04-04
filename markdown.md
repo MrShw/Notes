@@ -62,6 +62,30 @@ ___     分割线
 
 </table>
 
+```
+<table>
+    <thead>
+        <tr>
+            <th>  </th>
+            <th>  </th>
+            <th>  </th>
+        </tr>
+    </thead>
+
+    <tbody>
+       <th>  </th>
+       <th>  </th>
+       <th>  </th>
+    </tbody>
+
+    <tfoot>
+        <td>  </td>
+    </tfoot>
+
+</table>
+
+
+```
 
 
 
