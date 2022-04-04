@@ -10,6 +10,7 @@ HTML 标签不区分大小写，`<h1>`和`<H1>`是一样的，但建议小写，
 
 ```
 https://developer.mozilla.org/en-US/
+https://github.com/Forece/notes/blob/master/CSS.md
 ```
 
 # HTML
@@ -181,7 +182,7 @@ css 引入方式
 1. 内联样式 (优先级最高)
 
 ```
-
+<p style=font-size:30px; color:red;> TTT </p>
 ```
 
 2. 内部样式
