@@ -102,7 +102,6 @@ p::first-line {
 }
 ```
 
-
 # 一、CSS 简介
 
 CSS（Cascading Style Sheets） 层叠样式表，主要是用来设置 HTML 页面中文本内容内容（字体、大小、对齐方式）、图片的外形（高宽、边框样式、边距）以及版面的布局和外观显示样式
@@ -4345,10 +4344,10 @@ less 运算规则
 ### 11.6 less 导入
 
 ~~~less
-@import "style";      // 导入 style.less
-@import "style.less";  // 导入style.less
-@import "style.php";   //  style.php 作为LESS文件被导入
-@import "style.css";   // 文件内容被原样输出
+@import "style";      // 导入 style.less
+@import "style.less";  // 导入style.less
+@import "style.php";   //  style.php 作为LESS文件被导入
+@import "style.css";   // 文件内容被原样输出
 ~~~
 
 
