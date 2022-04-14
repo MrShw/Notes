@@ -74,7 +74,14 @@ h1.innerHTML = "My name is Wilson";
 h1.innerHTML = ‹mark>I am Wilson.</mark>";
 h1.innerTest = ‹mark>I am Wilson.</mark>";
 ~~~
+~~~js
+let body = document. querySelector("body");
 
+let myh1 = document. createElement("h1");
+myh1. innerText = "Hi I am Wilson";
+
+body.appendChild(myh1);
+~~~
 
 # 一、Javascript 概述
 
